@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a61bd0853cd145f572c142a336e0c9802dd333988b6e1ee1b5372e537e3904b4
-size 766
+If you want to add suits, you should place them in a new folder named moresuits in your plugins folder so they don't disappear from the mod's folder when it gets updated. Keep in mind, any suits you add will need to be manually shared with your friends or you will encounter syncing issues in-game. Upload a package with your suits to Thunderstore if you want to make sharing your suits easier.
+
+If you don't want the suits that are included with this mod to load (if you're using this mod as a library to load your own suit mod), add a file called "!less-suits.txt" to your moresuits folder in your own mod.
+
+Alternatively, you can modify the config file BepInEx\config\x753.More_Suits.cfg to include a list of comma separated suits that you don't want to load.

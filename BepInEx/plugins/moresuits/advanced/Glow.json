@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46a63cffa8bf42c94e301b9b79ba51b2050f23a30ce173cbd54b2c2435f1ccc3
-size 245
+{
+    "_NormalScale": "0.0",
+
+    "_EmissiveColorMap": "glow.png",
+    "_UseEmissiveIntensity": 1.0,
+    "_EmissiveIntensity": 10.0,
+    "_EmissiveColor": "1.0, 1.0, 1.0, 1.0",
+    "_EMISSIVE_COLOR_MAP": "KEYWORD",
+
+    "PRICE": "60"
+}
