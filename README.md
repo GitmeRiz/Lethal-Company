@@ -7,7 +7,6 @@ List Mod
 5. Flashlight Toggle
 6. Ship Loot Total
 7. LateCompany (Temen bisa join tanpa quit)
-8. Youtube Boombox
 9. Volume Up/Down Boombox
 10. Helmet Camera
 11. More Suits
